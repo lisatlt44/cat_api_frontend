@@ -39,17 +39,6 @@ function Cat() {
         </div>
       </div>
     </div>
-    // <div>
-    //   <h1>Des chats à gogo</h1>
-    //   <div>
-    //     <img src={catData.url} alt="cat" />
-    //     <button onClick={handleClick}>Recharger</button>
-    //     <div>Race : {catData.breeds[0].name}</div>
-    //     <div>Origine : {catData.breeds[0].origin}</div>
-    //     <div>Description : {catData.breeds[0].description}</div>
-    //     <div>Tempérament : {catData.breeds[0].temperament}</div>
-    //   </div>
-    // </div>
   );
 }
 
